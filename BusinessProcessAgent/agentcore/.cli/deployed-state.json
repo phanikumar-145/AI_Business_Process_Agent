@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "BusinessProcessAgent": {
+            "runtimeId": "BusinessProcessAgent_BusinessProcessAgent-nyJ4mUHM3S",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:011294328158:runtime/BusinessProcessAgent_BusinessProcessAgent-nyJ4mUHM3S",
+            "roleArn": "arn:aws:iam::011294328158:role/AgentCore-BusinessProcess-ApplicationAgentBusinessP-utKQnNVB444W"
+          }
+        },
+        "stackName": "AgentCore-BusinessProcessAgent-default",
+        "deployHash": "89e6962c51c31078"
+      }
+    }
+  }
+}
